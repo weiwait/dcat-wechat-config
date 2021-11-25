@@ -25,7 +25,7 @@
 ![](https://github.com/weiwait/images/blob/main/dcat-smtp-menu.png?raw=true)
 
 ### 示例图片
-![示例图片](https://github.com/weiwait/images/blob/main/dcat-wecaht-config.png?raw=true)
+![示例图片](https://github.com/weiwait/images/blob/main/dcat-wechat-config.png?raw=true)
 
 [comment]: <> (### Donate)
 
