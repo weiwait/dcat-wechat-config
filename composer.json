@@ -13,9 +13,8 @@
         }
     ],
     "require": {
-        "php": ">=7.4",
-        "dcat/laravel-admin": "~2.0",
-        "w7corp/easywechat": "^6.7"
+        "php": "^8.1",
+        "w7corp/easywechat": "^6.12"
     },
     "autoload": {
         "psr-4": {
